@@ -10,3 +10,5 @@
 - ⚡ Fun fact: B
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=web2580" alt="Top Langs" />
+
+![](https://github-readme-stats.vercel.app/api?username=web2580&show_icons=true&theme=transparent)
